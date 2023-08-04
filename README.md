@@ -8,8 +8,10 @@
 
 - 🔭 I’m currently working on **MRAM In-memory computing**
 - 🌱 I’m currently learning **Machine Learning**
-- 👯 I’m looking to collaborate on **[What kind of projects you're interested in]**
-- 🤔 I’m looking for help with **[What you need help with]**
+
+- 😎 I’m pursuing for a **MPhil degree In Hong Kong Uverisity of Science and Technology**
+- 🤔 Next goal is pursuing a **PhD degree**
+
 - 💬 Ask me about **[MRAM]**
 - 📫 How to reach me: **[skcheungag@connect.ust.hk]**
 - ⚡ Fun fact: **[I am good at shooting three points in 🏀]**
