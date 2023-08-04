@@ -1,6 +1,7 @@
 
 
-# Hello, I'm Kong 👋
+# Hello, there
+# I'm Kong 👋, Nice to meet you
 
 ## I'm a ... Electronic and Computer Engineering student, a lab engineer, a dreamer, a basketball lover.
 
