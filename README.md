@@ -4,10 +4,10 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)
 
-## I'm a ... (Your Profession, e.g., Frontend Developer, Data Scientist, etc.)
+## I'm a ... Electronic and Computer Engineering student, a Lab engineer, a dreamer, a basketball lover.
 
-- 🔭 I’m currently working on **[Your Project Name](link to project)**
-- 🌱 I’m currently learning **[What you're learning]**
+- 🔭 I’m currently working on **MRAM In-memory computing**
+- 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **[What kind of projects you're interested in]**
 - 🤔 I’m looking for help with **[What you need help with]**
 - 💬 Ask me about **[What you're willing to discuss]**
