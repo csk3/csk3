@@ -12,9 +12,9 @@
 - 😎 I’m pursuing for a **MPhil degree In Hong Kong Uverisity of Science and Technology**
 - 🤔 Next goal is pursuing a **PhD degree**
 
-- 💬 Ask me about **[MRAM]**
-- 📫 How to reach me: **[skcheungag@connect.ust.hk]**
-- ⚡ Fun fact: **[I am good at shooting three points in 🏀]**
+- 💬 Ask me about **MRAM**
+- 📫 How to reach me: **skcheungag@connect.ust.hk**
+- ⚡ Fun fact: **I am good at shooting three points in 🏀**
 
 ### 🛠 &nbsp;Tech Stack
 
