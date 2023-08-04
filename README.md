@@ -1,6 +1,6 @@
 
 
-# Hello, I'm Cheung Shun Kong 👋
+# Hello, I'm Kong 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)
 
@@ -10,18 +10,17 @@
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **[What kind of projects you're interested in]**
 - 🤔 I’m looking for help with **[What you need help with]**
-- 💬 Ask me about **[What you're willing to discuss]**
-- 📫 How to reach me: **[Your email address]**
-- 😄 Pronouns: He/She/They
-- ⚡ Fun fact: **[Share something fun or interesting]**
+- 💬 Ask me about **[MRAM]**
+- 📫 How to reach me: **[skcheungag@connect.ust.hk]**
+- ⚡ Fun fact: **[I am good at shooting three points in 🏀]**
 
 ### 🛠 &nbsp;Tech Stack
 
 List your familiar tools, for example:
 
-- Web Development: HTML5/CSS3 | JavaScript | React | Node.js
-- Databases: MySQL | MongoDB
-- Tools: Git | Markdown | Docker
+- Coding    : Python
+- Software  : Klayout | Cadence | Vs Code
+- Tools     : Git | Markdown 
 
 ## My GitHub Stats
 
@@ -37,5 +36,4 @@ List your familiar tools, for example:
 
 You can find me on the following platforms:
 
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [LinkedIn](https://www.linkedin.com/in/cskong3/)
