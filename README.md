@@ -2,8 +2,6 @@
 
 # Hello, I'm Kong 👋
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)
-
 ## I'm a ... Electronic and Computer Engineering student, a lab engineer, a dreamer, a basketball lover.
 
 - 🔭 I’m currently working on **MRAM In-memory computing**
