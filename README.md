@@ -12,7 +12,7 @@
 - 🤔 Next goal is pursuing a **PhD degree**
 
 - 💬 Ask me about **MRAM**
-- 📫 How to reach me: **skcheungag@connect.ust.hk**
+- 📫 How to reach me: **skcheung@u.northwestern.edu**
 - ⚡ Fun fact: **I am good at shooting three points in 🏀**
 
 ### 🛠 &nbsp;Tech Stack
